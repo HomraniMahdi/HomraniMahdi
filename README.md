@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , angular**
 
-- 📫 How to reach me **Mahdi.homrani@esprit.tn**
+- 📫 How to reach me **Mahdi.Homrani@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdi-homrani/](https://www.linkedin.com/in/mahdi-homrani/)
 
