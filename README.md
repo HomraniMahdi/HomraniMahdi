@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **MEARN , MEAN**
 
+- 🌱 I’m currently **learning DevOps**
+
 - 📫 How to reach me **Mahdi.Homrani@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdi-homrani/](https://www.linkedin.com/in/mahdi-homrani/)
