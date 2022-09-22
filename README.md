@@ -37,6 +37,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=homranimahdi&theme=merko&show_icons=true&locale=en&layout=compact" alt="homranimahdi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homranimahdi&show_icons=true&locale=en&theme=merko" alt="homranimahdi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homranimahdi&theme=merko" alt="homranimahdi" /></p>
-
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HomraniMahdi&theme=2077" alt="homranimahdi" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HomraniMahdi&theme=github_dark" alt="homranimahdi" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HomraniMahdi&theme=2077" alt="homranimahdi" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HomraniMahdi&theme=2077&utcOffset=8" alt="homranimahdi" /></p>
