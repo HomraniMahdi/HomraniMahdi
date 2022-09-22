@@ -5,7 +5,7 @@
 
 
 <br>
-- 👨‍💻 All of my projects are available at [https://github.com/HomraniMahdi](https://github.com/HomraniMahdi)
+- 👨‍💻 All of my projects are available at (https://github.com/HomraniMahdi)
 
 - 💬 Ask me about **MEARN , MEAN**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Mahdi.Homrani@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mahdi-homrani/](https://www.linkedin.com/in/mahdi-homrani/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/mahdi-homrani/)
 
 - ⚡ Fun fact **I am Funny**
 
