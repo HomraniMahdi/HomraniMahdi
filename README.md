@@ -6,7 +6,6 @@
 
 <br>
 <br>
-<br>
 - 👨‍💻 All of my projects are available at [https://github.com/HomraniMahdi](https://github.com/HomraniMahdi)
 
 - 💬 Ask me about **MEARN , MEAN**
