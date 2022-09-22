@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HomraniMahdi](https://github.com/HomraniMahdi)
 
-- 💬 Ask me about **react , angular**
+- 💬 Ask me about **MEARN , MEAN**
 
 - 📫 How to reach me **Mahdi.Homrani@outlook.com**
 
