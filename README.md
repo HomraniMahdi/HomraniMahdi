@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdi-homrani/](https://www.linkedin.com/in/mahdi-homrani/)
 
-- ⚡ Fun fact I am Funny
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
