@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=homranimahdi&label=Profile%20views&color=0e75b6&style=flat" alt="homranimahdi" /> </p>
 <img  alt="code" width="3000" height="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Homrani Mahdi</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia ​🚩</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=homranimahdi" alt="homranimahdi" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="coding" width="400" height="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 
@@ -36,6 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homranimahdi&show_icons=true&locale=en&theme=merko" alt="homranimahdi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homranimahdi&theme=merk" alt="homranimahdi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homranimahdi&theme=merko" alt="homranimahdi" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bq3e5dlr2nkskdjydsjjmof6lu)
