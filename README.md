@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Homrani Mahdi</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia ​🚩</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techbabble.zone%2Fhow-to-become-a-software-developer-without-a-cs-degree-or-bootcamp%2F&psig=AOvVaw0iVNHGy2HiwFFMZnehs3bF&ust=1663940913610000&source=images&cd=vfe&ved=2ahUKEwibufeJxaj6AhWtAt8KHW79ArcQjRx6BAgAEAs">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homranimahdi&label=Profile%20views&color=0e75b6&style=flat" alt="homranimahdi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=homranimahdi" alt="homranimahdi" /></a> </p>
