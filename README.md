@@ -10,7 +10,7 @@
 <br>
 - 👨‍💻 All of my projects are available at https://github.com/HomraniMahdi
 
-- 💬 Ask me about **MEARN , MEAN**
+- 💬 Ask me about **MERN , MEAN**
 
 - 🌱 I’m currently **learning DevOps**
 
