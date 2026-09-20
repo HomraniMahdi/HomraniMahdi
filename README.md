@@ -73,9 +73,9 @@ I enjoy designing clean architectures, solving complex technical problems, and c
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </a>
-<a href="https://rxjs.dev/" target="_blank">
+<a href="https://rxjs.dev/" target="_blank" rel="noreferrer">
   <img
-    src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512.png"
+    src="https://cdn.simpleicons.org/reactivex"
     alt="RxJS"
     width="45"
     height="45"
