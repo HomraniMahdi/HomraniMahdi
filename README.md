@@ -1,44 +1,283 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=homranimahdi&label=Profile%20views&color=0e75b6&style=flat" alt="homranimahdi" /> </p>
-<img  alt="code" width="3000" height="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
-<h1 align="center">Hi 👋, I'm Homrani Mahdi</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia ​🚩</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=homranimahdi&theme=onedark&row=1&column=6" alt="homranimahdi" /></a> </p>
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="coding" width="400" height="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<h1 align="center">Hi 👋, I'm Mahdi Homrani</h1>
 
+<h3 align="center">
+  Full Stack Software Engineer | Java • Spring Boot • Angular • Cloud • DevOps
+</h3>
 
-<br>
-- 👨‍💻 All of my projects are available at https://github.com/HomraniMahdi
-
-- 💬 Ask me about **MERN , MEAN**
-
-- 🌱 I’m currently **learning DevOps**
-
-- 📫 How to reach me **Mahdi.Homrani@outlook.com**
-
-- 📄 Know about my experiences **https://www.linkedin.com/in/mahdi-homrani/**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mahdi-homrani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-homrani" height="30" width="40" /></a>
-<a href="https://www.facebook.com/homrani.mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com" height="30" width="40" /></a>
-<a href="https://www.instagram.com/homrani_mahdii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/homrani_mahdii/" height="30" width="40" /></a>
-<a href="https://discord.gg/MasKed#4092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MasKed#4092" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=homranimahdi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<br>
-<br>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/HomraniMahdi">
+    <img src="https://img.shields.io/github/followers/HomraniMahdi?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahdi-homrani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=homranimahdi&theme=merko&show_icons=true&locale=en&layout=compact" alt="homranimahdi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homranimahdi&show_icons=true&locale=en&theme=merko" alt="homranimahdi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homranimahdi&theme=merko" alt="homranimahdi" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HomraniMahdi&theme=2077" alt="homranimahdi" /></p>
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HomraniMahdi&theme=github_dark" alt="homranimahdi" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HomraniMahdi&theme=2077" alt="homranimahdi" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HomraniMahdi&theme=2077&utcOffset=8" alt="homranimahdi" /></p> 
-                                                                       💻 Check Out My Repos ⬇️
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Software Engineer** with 4+ years of experience building scalable and maintainable enterprise applications.
+
+My main expertise is centered around:
+
+* ☕ **Java & Spring Boot** backend development
+* 🅰️ **Angular & TypeScript** frontend development
+* ☁️ **Cloud-native & distributed applications**
+* 🐳 **Docker & Kubernetes**
+* 🔄 **CI/CD & DevOps practices**
+* 🔐 **Application security & OAuth2**
+* 📡 **Event-driven architectures & Kafka**
+* 📊 **Monitoring & observability**
+
+I enjoy designing clean architectures, solving complex technical problems, and continuously improving software quality and delivery processes.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p align="left">
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+</a>
+<a href="https://spring.io/projects/spring-cloud" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Cloud"/>
+</a>
+<a href="https://kafka.apache.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
+</a>
+<a href="https://hibernate.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+</a>
+</p>
+
+**Java 17/21 · Spring Boot · Spring Cloud · Spring Security · Spring Data JPA · Hibernate · REST APIs · OpenFeign · Kafka · SSE · Camunda**
+
+---
+
+### Frontend
+
+<p align="left">
+<a href="https://angular.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+</a>
+<a href="https://rxjs.dev/" target="_blank">
+<img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512.png" width="45" height="45" alt="RxJS"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+</p>
+
+**Angular · TypeScript · RxJS · Angular Material · HTML5 · CSS3 · REST integration · SSE**
+
+---
+
+### Cloud & DevOps
+
+<p align="left">
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+</a>
+<a href="https://argo-cd.readthedocs.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="45" height="45" alt="Argo CD"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+</a>
+</p>
+
+**Docker · Kubernetes · Jenkins · GitLab CI/CD · Argo CD · Linux · AWS · Nexus · SonarQube**
+
+---
+
+### Security & Observability
+
+<p align="left">
+<a href="https://www.keycloak.org/" target="_blank">
+<img src="https://www.keycloak.org/resources/images/keycloak_logo_480x108.png" width="100" height="35" alt="Keycloak"/>
+</a>
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus"/>
+</a>
+<a href="https://grafana.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana"/>
+</a>
+</p>
+
+**Spring Security · OAuth 2.0 · Keycloak · JWT · Prometheus · Grafana · Alertmanager · Actuator**
+
+---
+
+### Databases
+
+<p align="left">
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="45" alt="PostgreSQL"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="45" alt="MySQL"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="45" alt="MongoDB"/>
+</a>
+</p>
+
+**PostgreSQL · MySQL · MongoDB · SQL · JPA/Hibernate**
+
+---
+
+## 🏗️ Architecture & Engineering
+
+I work mainly with:
+
+```text
+┌───────────────────────────────────────────────┐
+│              Frontend                         │
+│        Angular · TypeScript · RxJS            │
+└──────────────────────┬────────────────────────┘
+                       │ REST / SSE
+                       ▼
+┌───────────────────────────────────────────────┐
+│              Backend                          │
+│   Java · Spring Boot · Spring Cloud           │
+│   REST · Security · OpenFeign · JPA           │
+└──────────────────────┬────────────────────────┘
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+        PostgreSQL              Kafka
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+┌───────────────────────────────────────────────┐
+│          Cloud / DevOps                       │
+│ Docker · Kubernetes · CI/CD · Monitoring      │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## 🚀 What I Work On
+
+* 🧩 Enterprise **Full Stack applications**
+* 🔌 **REST APIs & microservices**
+* ☁️ **Cloud-native applications**
+* 🔄 **CI/CD pipelines**
+* 🐳 Containerization with **Docker**
+* ☸️ Application deployment with **Kubernetes**
+* 📨 Event-driven systems with **Kafka**
+* 🔐 Secure applications with **Spring Security & OAuth2**
+* 📡 Real-time communication with **SSE**
+* 📊 Monitoring and observability with **Prometheus & Grafana**
+* ⚙️ Workflow automation with **Camunda**
+* 🧪 Automated testing and code quality
+* 🔍 Static analysis with **SonarQube / SonarLint**
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 DiagCloud — Cloud Monitoring Platform
+
+A cloud-oriented monitoring platform designed for real-time supervision of critical microservices.
+
+**Stack:**
+
+`Java 17` `Spring Boot 3` `Spring Cloud` `Kafka` `Angular` `Keycloak` `OAuth2` `Docker` `Kubernetes` `Prometheus` `Grafana`
+
+**Key features:**
+
+* Real-time service monitoring
+* Custom application metrics
+* Kafka-based event processing
+* OAuth2 authentication
+* Prometheus metrics collection
+* Grafana dashboards
+* Alerting and notification mechanisms
+* Containerized deployment
+
+---
+
+### 🔹 Enterprise Order Management
+
+Full Stack enterprise application built around order management and business workflows.
+
+**Stack:**
+
+`Java 17` `Spring Boot` `Angular` `Camunda` `REST` `SSE` `JPA` `Docker` `GitLab CI/CD`
+
+**Key features:**
+
+* Order and activity management
+* Workflow orchestration with Camunda
+* Real-time notifications using SSE
+* Role-based access control
+* REST APIs
+* Automated CI/CD pipelines
+* Code quality and security analysis
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HomraniMahdi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomraniMahdi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HomraniMahdi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mahdi-homrani/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Homrani-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:Mahdi.Homrani@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=microsoftoutlook" alt="Email"/>
+</a>
+
+<a href="https://github.com/HomraniMahdi" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-HomraniMahdi-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Check out my repositories below 👇</b>
+</p>
+
+<p align="center">
+  Building scalable software, learning continuously, and improving every day 🚀
+</p>
