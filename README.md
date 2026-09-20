@@ -116,8 +116,8 @@ I enjoy designing clean architectures, solving complex technical problems, and c
 
 <p align="left">
 <a href="https://www.keycloak.org/" target="_blank">
-  <img src="https://www.keycloak.org/resources/images/keycloak_icon_512px.png"
-       width="45" height="45" alt="Keycloak"/>
+  <img src="https://www.keycloak.org/resources/images/icon.svg"
+       alt="Keycloak" width="45" height="45"/>
 </a>
 <a href="https://prometheus.io/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus"/>
