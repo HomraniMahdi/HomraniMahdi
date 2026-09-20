@@ -74,7 +74,12 @@ I enjoy designing clean architectures, solving complex technical problems, and c
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </a>
 <a href="https://rxjs.dev/" target="_blank">
-<img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512.png" width="45" height="45" alt="RxJS"/>
+  <img
+    src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512.png"
+    alt="RxJS"
+    width="45"
+    height="45"
+  />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
